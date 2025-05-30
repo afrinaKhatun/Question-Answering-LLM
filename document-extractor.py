@@ -7,11 +7,18 @@ from typing import List, Dict
 import re
 
 # --- Config ---
-openai.api_key = "your-openai-api-key"
+openai.api_key = "open-ai-key"
 root_folder = "/Users/afrinakhatun/Documents/About UCI/PhD Course/SWE 215 Dynamic Testing/project/Question_Answer_Dataset_v1.2/"
 max_tokens_per_chunk = 512
 model_name = "text-embedding-3-large"
-batch_size = 10  # OpenAI allows batching for embeddings
+batch_size = 50  # OpenAI allows batching for embeddings
+
+def normalize_text(text):
+    text = text.replace('\r\n', '\n')
+    text = re.sub(r'[^\x00-\x7f]+', ' ', text)
+    text = re.sub(r'[ ]{2,}', ' ', text)
+    text = re.sub(r'\n{3,}', '\n\n', text)
+    return text.strip().lower()
 
 # --- Chunking Helper ---
 def chunk_text(text: str, max_tokens: int = 512) -> List[str]:
@@ -27,8 +34,16 @@ def collect_chunks_from_documents(root_folder: str) -> List[Dict]:
         for file in files:
             if re.fullmatch(r'a\d+\.txt', file):
                 full_path = os.path.join(subdir, file)
-                with open(full_path, 'r', encoding='utf-8') as f:
-                    text = f.read()
+                with open(full_path, 'rb') as f:
+                    print(full_path)
+                    raw_bytes = f.read()
+                    try:
+                        text = raw_bytes.decode('utf-8')
+                    except UnicodeDecodeError:
+                        text = raw_bytes.decode('latin-1')  # fallback
+                #with open(full_path, 'r', encoding='utf-8',errors='ignore') as f:
+                   # text = f.read()
+                text = normalize_text(text)   
                 chunks = chunk_text(text)
                 for i, chunk in enumerate(chunks):
                     chunks_info.append({
