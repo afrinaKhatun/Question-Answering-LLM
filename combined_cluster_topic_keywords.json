@@ -1,0 +1,562 @@
+{
+  "4": {
+    "0": {
+      "lda": [
+        "string",
+        "guitar",
+        "use",
+        "instrument",
+        "violin",
+        "play",
+        "cello",
+        "make",
+        "flute",
+        "sound"
+      ],
+      "tfidf": [
+        "guitar",
+        "string",
+        "cello",
+        "violin",
+        "flute",
+        "bow",
+        "use",
+        "instrument",
+        "play",
+        "piano"
+      ]
+    },
+    "1": {
+      "lda": [
+        "language",
+        "word",
+        "use",
+        "english",
+        "arabic",
+        "chinese",
+        "dialect",
+        "speak",
+        "also",
+        "write"
+      ],
+      "tfidf": [
+        "language",
+        "arabic",
+        "chinese",
+        "word",
+        "use",
+        "english",
+        "dialect",
+        "vowel",
+        "speak",
+        "swahili"
+      ]
+    },
+    "2": {
+      "lda": [
+        "piano",
+        "use",
+        "drum",
+        "german",
+        "cymbal",
+        "vietnamese",
+        "also",
+        "word",
+        "chinese",
+        "instrument"
+      ],
+      "tfidf": [
+        "piano",
+        "drum",
+        "cymbal",
+        "vietnamese",
+        "trumpet",
+        "german",
+        "use",
+        "word",
+        "string",
+        "chinese"
+      ]
+    }
+  },
+  "1": {
+    "0": {
+      "lda": [
+        "romania",
+        "liechtenstein",
+        "romanian",
+        "country",
+        "world",
+        "ghana",
+        "european",
+        "state",
+        "uruguay",
+        "national"
+      ],
+      "tfidf": [
+        "romania",
+        "liechtenstein",
+        "ghana",
+        "romanian",
+        "finland",
+        "country",
+        "uruguay",
+        "world",
+        "european",
+        "canada"
+      ]
+    },
+    "1": {
+      "lda": [
+        "egypt",
+        "canada",
+        "egyptian",
+        "language",
+        "singapore",
+        "canadian",
+        "country",
+        "state",
+        "world",
+        "government"
+      ],
+      "tfidf": [
+        "egypt",
+        "canada",
+        "egyptian",
+        "singapore",
+        "canadian",
+        "language",
+        "church",
+        "arab",
+        "country",
+        "government"
+      ]
+    },
+    "2": {
+      "lda": [
+        "finland",
+        "finnish",
+        "indonesia",
+        "world",
+        "country",
+        "qatar",
+        "people",
+        "indonesian",
+        "national",
+        "state"
+      ],
+      "tfidf": [
+        "finland",
+        "finnish",
+        "indonesia",
+        "qatar",
+        "indonesian",
+        "world",
+        "language",
+        "country",
+        "national",
+        "people"
+      ]
+    }
+  },
+  "2": {
+    "0": {
+      "lda": [
+        "newton",
+        "pascal",
+        "law",
+        "isaac",
+        "work",
+        "becquerel",
+        "time",
+        "also",
+        "cambridge",
+        "two"
+      ],
+      "tfidf": [
+        "newton",
+        "pascal",
+        "becquerel",
+        "law",
+        "isaac",
+        "cambridge",
+        "work",
+        "royal",
+        "university",
+        "jacqueline"
+      ]
+    },
+    "1": {
+      "lda": [
+        "faraday",
+        "newton",
+        "watt",
+        "michael",
+        "royal",
+        "james",
+        "university",
+        "john",
+        "also",
+        "one"
+      ],
+      "tfidf": [
+        "faraday",
+        "newton",
+        "watt",
+        "james",
+        "michael",
+        "royal",
+        "davy",
+        "also",
+        "university",
+        "avogadro"
+      ]
+    },
+    "2": {
+      "lda": [
+        "pascal",
+        "watt",
+        "work",
+        "volta",
+        "engine",
+        "avogadro",
+        "one",
+        "steam",
+        "make",
+        "produce"
+      ],
+      "tfidf": [
+        "pascal",
+        "watt",
+        "avogadro",
+        "volta",
+        "celsius",
+        "engine",
+        "coulomb",
+        "steam",
+        "electric",
+        "uppsala"
+      ]
+    }
+  },
+  "3": {
+    "0": {
+      "lda": [
+        "tesla",
+        "leonardo",
+        "work",
+        "michelangelo",
+        "greco",
+        "paint",
+        "one",
+        "rockwell",
+        "painting",
+        "also"
+      ],
+      "tfidf": [
+        "tesla",
+        "greco",
+        "leonardo",
+        "michelangelo",
+        "work",
+        "rockwell",
+        "paint",
+        "vinci",
+        "art",
+        "edison"
+      ]
+    },
+    "1": {
+      "lda": [
+        "tesla",
+        "nikola",
+        "new",
+        "picasso",
+        "isbn",
+        "york",
+        "van",
+        "time",
+        "electrical",
+        "gogh"
+      ],
+      "tfidf": [
+        "tesla",
+        "nikola",
+        "picasso",
+        "isbn",
+        "new",
+        "van",
+        "gogh",
+        "york",
+        "museum",
+        "electrical"
+      ]
+    },
+    "2": {
+      "lda": [
+        "work",
+        "art",
+        "tesla",
+        "van",
+        "painting",
+        "paint",
+        "gogh",
+        "greco",
+        "pollock",
+        "artist"
+      ],
+      "tfidf": [
+        "tesla",
+        "van",
+        "gogh",
+        "pollock",
+        "greco",
+        "klimt",
+        "work",
+        "renoir",
+        "art",
+        "paint"
+      ]
+    }
+  },
+  "5": {
+    "0": {
+      "lda": [
+        "city",
+        "melbourne",
+        "singapore",
+        "montreal",
+        "also",
+        "jakarta",
+        "kuala",
+        "large",
+        "lumpur",
+        "saint"
+      ],
+      "tfidf": [
+        "melbourne",
+        "city",
+        "singapore",
+        "montreal",
+        "kuala",
+        "jakarta",
+        "petersburg",
+        "lumpur",
+        "saint",
+        "school"
+      ]
+    },
+    "1": {
+      "lda": [
+        "city",
+        "london",
+        "beijing",
+        "area",
+        "large",
+        "nairobi",
+        "berlin",
+        "capital",
+        "taipei",
+        "also"
+      ],
+      "tfidf": [
+        "london",
+        "beijing",
+        "nairobi",
+        "berlin",
+        "ottawa",
+        "taipei",
+        "helsinki",
+        "area",
+        "large",
+        "lima"
+      ]
+    },
+    "2": {
+      "lda": [
+        "city",
+        "copenhagen",
+        "san",
+        "museum",
+        "francisco",
+        "university",
+        "large",
+        "also",
+        "world",
+        "area"
+      ],
+      "tfidf": [
+        "copenhagen",
+        "san",
+        "francisco",
+        "museum",
+        "university",
+        "berlin",
+        "park",
+        "melbourne",
+        "lima",
+        "large"
+      ]
+    }
+  },
+  "0": {
+    "0": {
+      "lda": [
+        "tiger",
+        "lion",
+        "leopard",
+        "male",
+        "panda",
+        "otter",
+        "specie",
+        "duck",
+        "animal",
+        "female"
+      ],
+      "tfidf": [
+        "tiger",
+        "otter",
+        "lion",
+        "panda",
+        "leopard",
+        "duck",
+        "kangaroo",
+        "male",
+        "giraffe",
+        "elephant"
+      ]
+    },
+    "1": {
+      "lda": [
+        "wolf",
+        "elephant",
+        "specie",
+        "butterfly",
+        "bear",
+        "beetle",
+        "bee",
+        "also",
+        "large",
+        "use"
+      ],
+      "tfidf": [
+        "wolf",
+        "elephant",
+        "butterfly",
+        "beetle",
+        "bear",
+        "bee",
+        "polar",
+        "cougar",
+        "specie",
+        "lion"
+      ]
+    },
+    "2": {
+      "lda": [
+        "turtle",
+        "ant",
+        "specie",
+        "penguin",
+        "zebra",
+        "octopus",
+        "lobster",
+        "may",
+        "many",
+        "also"
+      ],
+      "tfidf": [
+        "turtle",
+        "ant",
+        "penguin",
+        "zebra",
+        "lobster",
+        "octopus",
+        "lion",
+        "lizard",
+        "specie",
+        "shell"
+      ]
+    }
+  },
+  "6": {
+    "0": {
+      "lda": [
+        "ford",
+        "state",
+        "united",
+        "new",
+        "president",
+        "york",
+        "roosevelt",
+        "december",
+        "fillmore",
+        "house"
+      ],
+      "tfidf": [
+        "ford",
+        "state",
+        "united",
+        "roosevelt",
+        "fillmore",
+        "president",
+        "new",
+        "december",
+        "york",
+        "gerald"
+      ]
+    },
+    "1": {
+      "lda": [
+        "lincoln",
+        "grant",
+        "state",
+        "war",
+        "united",
+        "adam",
+        "john",
+        "president",
+        "battle",
+        "abraham"
+      ],
+      "tfidf": [
+        "lincoln",
+        "grant",
+        "state",
+        "adam",
+        "monroe",
+        "united",
+        "john",
+        "war",
+        "battle",
+        "president"
+      ]
+    },
+    "2": {
+      "lda": [
+        "roosevelt",
+        "wilson",
+        "state",
+        "coolidge",
+        "president",
+        "united",
+        "theodore",
+        "new",
+        "american",
+        "war"
+      ],
+      "tfidf": [
+        "roosevelt",
+        "wilson",
+        "coolidge",
+        "state",
+        "united",
+        "president",
+        "theodore",
+        "cleveland",
+        "act",
+        "war"
+      ]
+    }
+  }
+}

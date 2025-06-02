@@ -1,0 +1,100 @@
+{
+  "4": [
+    [
+      0,
+      "0.018*\"language\" + 0.010*\"words\" + 0.009*\"arabic\" + 0.009*\"english\" + 0.009*\"chinese\""
+    ],
+    [
+      1,
+      "0.009*\"language\" + 0.007*\"swahili\" + 0.007*\"trumpet\" + 0.006*\"spanish\" + 0.006*\"also\""
+    ],
+    [
+      2,
+      "0.009*\"strings\" + 0.009*\"guitar\" + 0.008*\"string\" + 0.008*\"used\" + 0.007*\"violin\""
+    ]
+  ],
+  "1": [
+    [
+      0,
+      "0.008*\"world\" + 0.007*\"romania\" + 0.006*\"language\" + 0.006*\"liechtenstein\" + 0.006*\"ghana\""
+    ],
+    [
+      1,
+      "0.013*\"finland\" + 0.011*\"egypt\" + 0.010*\"canada\" + 0.006*\"egyptian\" + 0.006*\"finnish\""
+    ],
+    [
+      2,
+      "0.008*\"romania\" + 0.006*\"indonesia\" + 0.005*\"romanian\" + 0.004*\"world\" + 0.004*\"singapore\""
+    ]
+  ],
+  "2": [
+    [
+      0,
+      "0.009*\"becquerel\" + 0.007*\"watt\" + 0.005*\"celsius\" + 0.005*\"coulomb\" + 0.005*\"volta\""
+    ],
+    [
+      1,
+      "0.024*\"pascal\" + 0.006*\"avogadro\" + 0.006*\"one\" + 0.004*\"watt\" + 0.004*\"two\""
+    ],
+    [
+      2,
+      "0.036*\"newton\" + 0.015*\"faraday\" + 0.007*\"isaac\" + 0.006*\"royal\" + 0.005*\"university\""
+    ]
+  ],
+  "3": [
+    [
+      0,
+      "0.030*\"tesla\" + 0.012*\"nikola\" + 0.011*\"van\" + 0.009*\"gogh\" + 0.008*\"new\""
+    ],
+    [
+      1,
+      "0.013*\"greco\" + 0.009*\"picasso\" + 0.008*\"michelangelo\" + 0.008*\"art\" + 0.006*\"painting\""
+    ],
+    [
+      2,
+      "0.036*\"tesla\" + 0.006*\"electrical\" + 0.005*\"nikola\" + 0.005*\"edison\" + 0.004*\"first\""
+    ]
+  ],
+  "5": [
+    [
+      0,
+      "0.014*\"city\" + 0.006*\"nairobi\" + 0.006*\"also\" + 0.006*\"kuala\" + 0.005*\"jakarta\""
+    ],
+    [
+      1,
+      "0.016*\"city\" + 0.009*\"london\" + 0.007*\"san\" + 0.005*\"francisco\" + 0.005*\"lima\""
+    ],
+    [
+      2,
+      "0.014*\"city\" + 0.012*\"melbourne\" + 0.006*\"beijing\" + 0.005*\"copenhagen\" + 0.005*\"helsinki\""
+    ]
+  ],
+  "0": [
+    [
+      0,
+      "0.010*\"species\" + 0.008*\"ants\" + 0.006*\"butterflies\" + 0.005*\"beetles\" + 0.005*\"ant\""
+    ],
+    [
+      1,
+      "0.008*\"wolf\" + 0.007*\"wolves\" + 0.006*\"tiger\" + 0.006*\"turtles\" + 0.005*\"species\""
+    ],
+    [
+      2,
+      "0.010*\"elephant\" + 0.009*\"species\" + 0.006*\"polar\" + 0.005*\"elephants\" + 0.005*\"leopard\""
+    ]
+  ],
+  "6": [
+    [
+      0,
+      "0.013*\"wilson\" + 0.012*\"coolidge\" + 0.008*\"cleveland\" + 0.008*\"president\" + 0.008*\"roosevelt\""
+    ],
+    [
+      1,
+      "0.022*\"lincoln\" + 0.017*\"states\" + 0.015*\"united\" + 0.014*\"grant\" + 0.008*\"war\""
+    ],
+    [
+      2,
+      "0.018*\"roosevelt\" + 0.016*\"ford\" + 0.011*\"adams\" + 0.010*\"united\" + 0.009*\"states\""
+    ]
+  ]
+}

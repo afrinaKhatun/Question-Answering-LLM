@@ -1,0 +1,421 @@
+
+String: What materials are commonly used to manufacture instrument strings?  
+String: How does the tension of a string affect the sound it produces?  
+Guitar: What distinguishes an acoustic guitar from an electric one?  
+Guitar: Which are the most common types of guitar tunings?  
+Use: In what contexts is a capo used on a guitar?  
+Use: How does the use of rosin affect the sound of a string instrument?  
+Instrument: What is the historical significance of the Stradivarius instruments?  
+Instrument: How do brass and woodwind instruments differ in sound production?  
+Violin: How does the size of a violin affect its sound?  
+Violin: What is the difference between a violin and a viola?  
+Play: What techniques are essential for playing a wind instrument proficiently?  
+Play: How can a musician improve the speed of their finger movements on a string instrument?  
+Cello: What are the standard parts of a cello and their functions?  
+Cello: How does a cello differ from a double bass?  
+Make: What are the basic steps involved in making a ukulele?  
+Make: How is a violin bow constructed?  
+Flute: What are the common materials used in the construction of flutes?  
+Flute: How has the design of the flute evolved over time?  
+Sound: How does sound travel differently in air versus in water?  
+Sound: What factors influence the pitch of musical sounds?  
+Language: How has the evolution of language impacted human communication?  
+Language: What are the main branches of the Indo-European language family?  
+Word: How can word choice affect tone and style in writing?  
+Word: What is the significance of etymology in understanding a word's history?  
+Use: How does the use of slang differ among age groups?  
+Use: What are some common guidelines for the use of semicolons in English writing?  
+English: How has English borrowed words from other languages throughout history?  
+English: Why is English considered a global lingua franca?  
+Arabic: What are the main dialects of Arabic spoken around the world?  
+Arabic: How does the Arabic script differ from the Latin alphabet?  
+Chinese: How is Mandarin Chinese different from other Chinese dialects?  
+Chinese: What is the significance of tones in the Chinese language?  
+Dialect: How does a dialect differ from an accent?  
+Dialect: What factors contribute to the emergence of new dialects?  
+Speak: What techniques can help improve public speaking skills?  
+Speak: How did the development of speech affect human evolution?  
+Also: How is the word "also" commonly used in English sentences?  
+Also: What role does "also" play in expressing additional information?  
+Write: How can writing influence cognitive processes?  
+Write: What are some effective strategies for writing a persuasive essay?  
+Piano: What are the differences between an acoustic piano and a digital piano?  
+Piano: How does learning piano benefit cognitive development?  
+Use: How can solar energy be used effectively in residential homes?  
+Use: What are the best practices for the use of social media in businesses?  
+Drum: What are the basic components of a standard drum kit?  
+Drum: How does playing the drums influence coordination skills?  
+German: What are the main differences between High German and Low German dialects?  
+German: How has German reunification impacted the country's economy?  
+Cymbal: How does the size of a cymbal affect its sound?  
+Cymbal: What techniques are used to play a ride cymbal in jazz music?  
+Vietnamese: What are the key differences between Northern and Southern Vietnamese dialects?  
+Vietnamese: How has Vietnamese cuisine been influenced by French colonialism?  
+Also: How can the word 'also' be used to enhance sentence structure?  
+Also: What is the role of 'also' in forming cohesive paragraphs?  
+Word: What are the origins of the English word 'robot'?  
+Word: How does word choice affect the tone of a piece of writing?  
+Chinese: What are the major differences between Mandarin and Cantonese?  
+Chinese: How has Chinese calligraphy been influenced by historical dynasties?  
+Instrument: What are the most common types of woodwind instruments?  
+Instrument: How is a Bunsen burner used as a laboratory instrument for experiments?
+Romania: What are the major tourist attractions in Romania?  
+Romania: How did Romania transition from communism to democracy?  
+Liechtenstein: What is the political system of Liechtenstein?  
+Liechtenstein: How does Liechtenstein maintain its economy?  
+Romanian: What are some characteristics of Romanian cuisine?  
+Romanian: What linguistic family does the Romanian language belong to?  
+Country: What factors determine a country's GDP?  
+Country: How can a country improve its education system?  
+World: How do international organizations influence world politics?  
+World: What are the impacts of climate change on global ecosystems?  
+Ghana: What role does cocoa play in Ghana's economy?  
+Ghana: How has Ghana's political landscape evolved since independence?  
+European: What is the purpose of the European Union?  
+European: How does the European Central Bank affect the eurozone economy?  
+State: How do states in the US differ in their education policies?  
+State: What are the responsibilities of a state governor in the US?  
+Uruguay: What is Uruguay's approach to renewable energy?  
+Uruguay: How has Uruguay advanced in social reforms?  
+National: How is national identity expressed through culture?  
+National: What is the significance of national holidays in fostering patriotism?
+Egypt: What are the major historical landmarks in Egypt?  
+Egypt: How did the ancient Egyptian civilization influence modern culture?  
+Canada: What are the popular tourist destinations in Canada?  
+Canada: How does the healthcare system in Canada differ from other countries?  
+Egyptian: What were some key contributions of ancient Egyptians to science and technology?  
+Egyptian: How is Egyptian art characterized through different historical periods?  
+Language: How do languages evolve over time?  
+Language: What are the challenges in preserving endangered languages?  
+Singapore: What is the significance of Singapore's strategic location in maritime trade?  
+Singapore: How does Singapore manage its urban development and green spaces?  
+Canadian: What are the distinct aspects of Canadian culture?  
+Canadian: Who are some notable Canadian authors and their contributions to literature?  
+Country: How is a nation's economic stability typically measured?  
+Country: What factors contribute to a country's cultural diversity?  
+State: What powers are typically held by a state government in a federal system?  
+State: How do state laws differ from federal laws in the United States?  
+World: How do global trade agreements impact international relations?  
+World: What are the major causes of global environmental change?  
+Government: How does a parliamentary system of government function?  
+Government: What are the responsibilities of the executive branch in a presidential system?  
+Finland: What are some traditional Finnish foods?  
+Finland: How is the education system structured in Finland?  
+Finnish: What is the origin of the Finnish language?  
+Finnish: How does the Finnish culture celebrate Midsummer?  
+Indonesia: What is the significance of Batik in Indonesian culture?  
+Indonesia: How many islands make up the country of Indonesia?  
+World: What are the main goals of the United Nations?  
+World: How does climate change affect biodiversity on a global scale?  
+Country: What factors contribute to a country's economic growth?  
+Country: How does a country's culture influence its political system?  
+Qatar: How has Qatar's economy benefited from hosting the FIFA World Cup?  
+Qatar: What is the role of Al Jazeera in Qatar's media landscape?  
+People: How do people's dietary habits affect their health outcomes?  
+People: In what ways can social media influence people's behavior?  
+Indonesian: What are the key components of the Indonesian education curriculum?  
+Indonesian: How has Indonesian pop culture influenced Southeast Asia?  
+National: What are the benefits of having a national healthcare system?  
+National: How do national parks contribute to environmental conservation?  
+State: How does the state government differ from the federal government?  
+State: What are the responsibilities of a state governor in the United States?  
+Newton: What is Newton's first law of motion?  
+Newton: How did Isaac Newton contribute to the field of optics?  
+Pascal: What is Pascal's principle in fluid mechanics?  
+Pascal: How did Blaise Pascal contribute to the development of probability theory?  
+Law: What is the second law of thermodynamics?  
+Law: How does Moore's law relate to the advancement of computer technology?  
+Isaac: What were some of the key scientific achievements of Isaac Newton?  
+Isaac: How did Isaac Newton's discoveries impact the scientific revolution?  
+Work: What is the formula for calculating work in physics?  
+Work: How does work-energy principle help in understanding mechanics?  
+Becquerel: What was Henri Becquerel's discovery regarding radioactivity?  
+Becquerel: How did Becquerel's research contribute to advancements in nuclear science?  
+Time: How is time traditionally measured in physics?  
+Time: What role does time dilation play in the theory of relativity?  
+Also: How is the word 'also' typically used in sentence structure?  
+Also: In what contexts is 'also' used to add information?  
+Cambridge: What notable academic departments exist at the University of Cambridge?  
+Cambridge: How has the University of Cambridge influenced higher education globally?  
+Two: What are the properties of the number two in mathematics?  
+Two: How does binary code utilize the number two in computing?  
+Faraday: What significant contributions did Michael Faraday make to the field of electromagnetism?  
+Faraday: How did Faraday's work influence the development of electric motors?  
+Newton: What are the three laws of motion formulated by Isaac Newton?  
+Newton: How did Newton's work on gravity impact the scientific community?  
+Watt: What improvements did James Watt make to the steam engine?  
+Watt: How did the innovations of James Watt contribute to the Industrial Revolution?  
+Michael: In what fields did Michael Faraday conduct his pioneering research?  
+Michael: How is Michael Faraday's legacy preserved in modern science?  
+Royal: What is the role of the Royal Society in promoting scientific research?  
+Royal: How does one become a Fellow of the Royal Society?  
+James: Why is James Watt considered a pivotal figure in engineering history?  
+James: What lasting impact did James Clerk Maxwell have on physics?  
+University: How do universities contribute to advancements in scientific research?  
+University: What are some of the oldest universities in the world and their significance?  
+John: What philosophical ideas is John Locke known for?  
+John: How did John Dalton's atomic theory revolutionize chemistry?  
+Also: How does the use of 'also' in writing help improve clarity and continuity of ideas?  
+Also: What are alternative words or phrases to use instead of 'also' in formal writing?  
+One: In number theory, why is the number one considered a unique numeral?  
+One: How is the concept of unity significant in various branches of mathematics?  
+Pascal: What is the unit of pressure in the International System of Units?  
+Pascal: How is Pascal's principle applied in hydraulic systems?  
+Watt: What is the relationship between watts and horsepower?  
+Watt: How is electrical power calculated in watts?  
+Work: What is the formula for calculating work done in physics?  
+Work: How does the concept of work relate to energy transfer?  
+Volta: Who invented the voltaic pile, and why is it significant?  
+Volta: What is the historical significance of Alessandro Volta's contributions to electricity?  
+Engine: What are the main components of a combustion engine?  
+Engine: How does a steam engine convert heat into mechanical work?  
+Avogadro: What does Avogadro's number represent in chemistry?  
+Avogadro: How did Avogadro's hypothesis contribute to molecular theory?  
+One: What is the significance of the number one in mathematics?  
+One: How is the identity element represented in algebra?  
+Steam: How did steam power influence the Industrial Revolution?  
+Steam: What is the role of steam turbines in power generation?  
+Make: How do chemical reactions make new substances?  
+Make: What are the factors that make a business successful?  
+Produce: What is the process by which plants produce energy?  
+Produce: How do factories produce goods efficiently?  
+Tesla: Who founded Tesla Motors?  
+Tesla: What is the range of the Tesla Model S on a full charge?  
+Leonardo: What is Leonardo da Vinci best known for?  
+Leonardo: How did Leonardo's notebooks contribute to both art and science?  
+Work: What are the benefits of remote work?  
+Work: How do you maintain work-life balance in a demanding job?  
+Michelangelo: What are some of Michelangelo's most famous works?  
+Michelangelo: How did Michelangelo contribute to the Renaissance?  
+Greco: Who was "El Greco" and what style is he known for?  
+Greco: Where did El Greco spend most of his artistic career?  
+Paint: What is the process of oil painting?  
+Paint: How does acrylic paint differ from watercolor paint?  
+One: What is the significance of the number one in mathematics?  
+One: In literature, how is the theme of unity often represented?  
+Rockwell: What themes are commonly found in Norman Rockwell's paintings?  
+Rockwell: How did Norman Rockwell's work capture American life?  
+Painting: What techniques are essential for realistic painting?  
+Painting: How has the medium of painting evolved over the centuries?  
+Also: In addition to primary sources, what other research materials are valuable in historical studies?  
+Also: How does the use of "also" affect sentence structure in English grammar?  
+Tesla: What innovations is Tesla known for in the automotive industry?  
+Tesla: How did Tesla's stock performance change after its first profitable quarter?  
+Nikola: What role did Nikola Tesla play in the development of alternating current?  
+Nikola: How is the company Nikola different from Tesla Inc.?  
+New: What significant events marked the beginning of the New Year in 2023?  
+New: How does the concept of a 'New Deal' relate to historical economic recovery efforts?  
+Picasso: What are some of Picasso's most famous paintings from his Blue Period?  
+Picasso: How did Picasso's style evolve during his Cubist phase?  
+ISBN: What does an ISBN number tell you about a book?  
+ISBN: How are ISBN numbers assigned to different editions of the same book?  
+York: What historical events led to York becoming the city of New York?  
+York: How does the cost of living in York compare to other major cities in the UK?  
+Van: How has the design of vans evolved to improve fuel efficiency?  
+Van: What are some popular models of van conversions for living spaces?  
+Time: What theories did Einstein propose about the nature of time?  
+Time: How do time zones affect global communication and business?  
+Electrical: What safety precautions are essential when working with electrical circuits?  
+Electrical: How has the advancement in electrical engineering impacted renewable energy technologies?  
+Gogh: What events in Van Gogh's life influenced his artistic style?  
+Gogh: How did Van Gogh's use of color differ from that of his contemporaries?  
+Work: What are effective strategies for maintaining a healthy work-life balance?  
+Work: How can remote work impact productivity and job satisfaction?  
+Art: How has art evolved from the Renaissance to the modern era?  
+Art: What role does art play in expressing cultural identity?  
+Tesla: How has Tesla influenced the electric vehicle market?  
+Tesla: What are the key features of Tesla's autopilot system?  
+Van: What are the benefits of converting a van into a camper van?  
+Van: How do cargo vans compare to passenger vans in terms of utility?  
+Painting: What techniques can be used to create texture in a painting?  
+Painting: How does the choice of medium affect the outcome of a painting?  
+Paint: What are the differences between oil paint and acrylic paint?  
+Paint: How does the type of paint used affect the longevity of a painting?  
+Gogh: What are the distinguishing features of Vincent van Gogh’s art style?  
+Gogh: How did Vincent van Gogh's mental health struggles influence his work?  
+Greco: What are the characteristics of El Greco's unique painting style?  
+Greco: How did El Greco contribute to the Spanish Renaissance?  
+Pollock: What is the significance of Jackson Pollock's drip painting technique?  
+Pollock: How did Jackson Pollock's approach change the landscape of abstract art?  
+Artist: What common challenges do artists face in establishing their careers?  
+Artist: How do artists typically develop their own distinctive style?  
+City: What are the major factors contributing to urbanization in modern cities?  
+City: How does infrastructure development impact city economics?  
+Melbourne: What is the historical significance of the Gold Rush in Melbourne?  
+Melbourne: How does Melbourne's public transportation system compare to other Australian cities?  
+Singapore: What strategies has Singapore implemented to become a smart city?  
+Singapore: How does Singapore address environmental sustainability despite its limited land area?  
+Montreal: What are some key cultural festivals celebrated in Montreal?  
+Montreal: How has Montreal's bilingualism influenced its local culture and economy?  
+Also: What implications arise from the usage of "also" in sequential event narration?  
+Also: How can the word "also" be used effectively in academic writing?  
+Jakarta: What challenges does Jakarta face regarding traffic congestion management?  
+Jakarta: How is Jakarta coping with frequent flooding issues?  
+Kuala: What is the historical background of the founding of Kuala Lumpur?  
+Kuala: How does Kuala Lumpur serve as a financial hub in Southeast Asia?  
+Large: What are the advantages and disadvantages of managing a large organization?  
+Large: How do ecosystems generally adapt when affected by large-scale deforestation?  
+Lumpur: What are some notable landmarks in Kuala Lumpur worth visiting?  
+Lumpur: How has Kuala Lumpur evolved in terms of urban architecture?  
+Saint: What criteria does the Catholic Church consider in canonizing saints?  
+Saint: How do the lives of saints inspire people within different religious communities?
+City: What defines a major city in terms of population and infrastructure?  
+City: How do cities contribute to the national economy?  
+London: What are some of the historical landmarks found in London?  
+London: How does the London Underground system impact daily commuting in the city?  
+Beijing: What is Beijing's role in China's political landscape?  
+Beijing: How has Beijing's air quality changed over recent years?  
+Area: How is the area of a geographical region measured?  
+Area: In what ways does urban area expansion affect the environment?  
+Large: What are the challenges faced by large organizations in managing resources?  
+Large: How does the size of a workforce impact a large company's efficiency?  
+Nairobi: What is Nairobi's significance in East Africa?  
+Nairobi: How does Nairobi National Park contribute to the city's tourism?  
+Berlin: How did the fall of the Berlin Wall impact the city?  
+Berlin: What are some cultural influences in modern Berlin?  
+Capital: How does a city become designated as the capital of a country?  
+Capital: What roles do capital cities play in international relations?  
+Taipei: How is Taipei a hub for technology and innovation in Asia?  
+Taipei: What makes Taipei's night markets unique?  
+Also: In what contexts is the word "also" commonly used in English sentences?  
+Also: How can the inclusion of "also" enhance the clarity of a statement?  
+City: What factors contribute to the growth of a city?  
+City: How do cities manage urban sprawl effectively?  
+Copenhagen: What are some must-visit attractions in Copenhagen?  
+Copenhagen: How does Copenhagen rank in terms of environmental sustainability?  
+San: What is the significance of the San Andreas Fault in California?  
+San: How did the city of San Diego get its name?  
+Museum: What is the role of museums in preserving cultural heritage?  
+Museum: How do modern museums incorporate technology in their exhibits?  
+Francisco: What historical events shaped the city of San Francisco?  
+Francisco: How has San Francisco's architecture evolved over time?  
+University: What distinguishes a university from a college?  
+University: How do universities contribute to technological innovation?  
+Large: What are the challenges of managing a large organization?  
+Large: How do large data sets impact business decision-making?  
+Also: How can transitional phrases like "also" enhance writing clarity?  
+Also: What are some examples of famous works that were also published posthumously?  
+World: How have globalization trends affected the world economy?  
+World: What were the causes and effects of World War II on the world?  
+Area: How is the area of a triangle calculated?  
+Area: How do planners determine the optimal area for a new park in a community?  
+Tiger: What is the average lifespan of a tiger in the wild?  
+Tiger: How do tigers communicate with each other?  
+Lion: What are the main habitats where lions can be found?  
+Lion: How do pride dynamics work in lion social structures?  
+Leopard: How does a leopard's hunting technique differ from other big cats?  
+Leopard: What adaptations help leopards climb trees effectively?  
+Male: How does the role of a male lion differ from that of a female lion in a pride?  
+Male: What are some common behaviors exhibited by dominant male wolves in a pack?  
+Panda: What are the primary dietary needs of giant pandas?  
+Panda: How do conservation efforts help increase panda populations?  
+Otter: What are some unique characteristics of sea otters compared to river otters?  
+Otter: How do otters utilize tools in their daily activities?  
+Specie: What defines a species within the biological classification system?  
+Specie: How do scientists determine when a new species has evolved?  
+Duck: What are the migratory patterns of mallard ducks?  
+Duck: How do ducks communicate within their flocks?  
+Animal: How do animals adapt to desert environments?  
+Animal: What role do animals play in maintaining ecosystem balance?  
+Female: How does female choice influence mate selection in birds?  
+Female: What are some examples of female-led social structures in animal groups?
+Wolf: What is the social structure of a wolf pack?  
+Wolf: How do wolves communicate with each other?  
+Elephant: What are the main threats to elephant populations in the wild?  
+Elephant: How do elephants use their trunks to interact with their environment?  
+Specie: How is a new species scientifically described and named?  
+Specie: What criteria determine whether a group of organisms is considered a distinct species?  
+Butterfly: What roles do butterflies play in their ecosystems?  
+Butterfly: How do butterflies migrate long distances?  
+Bear: What are the dietary habits of a grizzly bear?  
+Bear: How do bears prepare for hibernation?  
+Beetle: What is the significance of beetles in ecosystems worldwide?  
+Beetle: How do dung beetles contribute to nutrient cycling?  
+Bee: How do bees communicate with each other about food sources?  
+Bee: What is the importance of bees in agriculture?  
+Also: How is the word "also" used to connect ideas in a sentence?  
+Also: What are the common synonyms for the word "also" in English?  
+Large: What are some examples of large-scale engineering projects in history?   
+Large: How do large predators impact their ecosystems?  
+Use: How does the use of technology influence modern education?  
+Use: What are the environmental impacts of increased fossil fuel use?  
+Turtle: What adaptations do turtles have for aquatic environments?  
+Turtle: How do turtles protect themselves from predators?  
+Ant: What is the social structure of an ant colony?  
+Ant: How do ants communicate with each other?  
+Specie: What criteria are used to classify organisms into different species?  
+Specie: How can new species come into existence through evolution?  
+Penguin: What are the main species of penguins and where are they found?  
+Penguin: How do penguins keep warm in cold climates?  
+Zebra: What are the distinct features of a zebra's stripes?  
+Zebra: How do zebras socialize within their herds?  
+Octopus: What unique features does an octopus have compared to other mollusks?  
+Octopus: How does an octopus change color for camouflage?  
+Lobster: What is the typical habitat of a lobster?  
+Lobster: How do lobsters grow, and what is molting?  
+May: What are some holidays or events commonly celebrated in May?  
+May: How does the spring season affect the environment in May?  
+Many: How does the concept of "many" differ in mathematics compared to everyday language?  
+Many: How are large quantities estimated using the concept of "many"?  
+Also: In what contexts is the term "also" used to connect ideas?  
+Also: How does "also" differ in meaning from "too" and "as well"?
+Ford: What were some of the most popular Ford car models in the 20th century?  
+Ford: How did Henry Ford revolutionize the automobile industry?  
+State: What are the responsibilities of a state governor in the United States?  
+State: How do state governments differ from the federal government in the U.S.?  
+United: What was the primary purpose of the United Nations when it was founded in 1945?  
+United: How does the United Kingdom's government structure differ from that of the United States?  
+New: What major events occurred during the New Deal era in American history?  
+New: How does New York City’s public transportation system compare to other major cities?  
+President: What are some of the key duties of the President of the United States?  
+President: How many terms can a U.S. president serve according to the Constitution?  
+York: What historical impact did York, England, have during the medieval period?  
+York: How is the economy of York, Pennsylvania, primarily supported today?  
+Roosevelt: What were the major accomplishments of Theodore Roosevelt's presidency?  
+Roosevelt: How did Franklin D. Roosevelt's leadership impact the outcome of World War II?  
+December: What are some significant global events that have occurred in December throughout history?  
+December: Why is December 25th celebrated as Christmas Day by many Christians?  
+Fillmore: What were some key policies implemented during Millard Fillmore’s presidency?  
+Fillmore: How did Millard Fillmore's presidency impact the Compromise of 1850?  
+House: What are the primary roles of the House of Representatives in the U.S. Congress?  
+House: How is the British House of Commons different from the House of Lords?  
+Lincoln: What were Abraham Lincoln's key policies during his presidency?  
+Lincoln: How did Lincoln's assassination impact the United States?  
+Grant: What role did Ulysses S. Grant play in the Civil War?  
+Grant: How did Ulysses S. Grant's presidency influence Reconstruction?  
+State: How do states in the U.S. differ in their governance structures?  
+State: What is the role of state governments in the federal system of the United States?  
+War: What were the primary causes of the American Civil War?  
+War: How did World War II affect global geopolitical dynamics?  
+United: How did the United Nations form after World War II?  
+United: What are the main functions of the United States Congress?  
+Adam: What were John Adams' contributions to the American Revolution?  
+Adam: How did the policies of John Adams influence early American politics?  
+John: What were John F. Kennedy's major achievements as president?  
+John: How did John Locke's philosophy influence modern democratic thought?  
+President: What are the constitutional requirements to become a U.S. president?  
+President: How has the role of the U.S. president evolved over time?  
+Battle: What were the key outcomes of the Battle of Gettysburg?  
+Battle: How did the Battle of Midway change the course of the Pacific War in WWII?  
+Abraham: How did Abraham Lincoln's early life shape his political career?  
+Abraham: In what ways did Abraham Lincoln contribute to ending slavery in the United States?
+Roosevelt: What were Franklin D. Roosevelt's major New Deal programs?  
+Roosevelt: How did Roosevelt's leadership during World War II impact the United States?  
+Wilson: What were the key principles of Woodrow Wilson's Fourteen Points?  
+Wilson: How did Wilson's presidency shape international relations after World War I?  
+State: What role do state governments play in the federal system of the United States?  
+State: How does the process of statehood work in the United States?  
+Coolidge: What were the main policies of Calvin Coolidge's presidency?  
+Coolidge: How did Coolidge's economic policies influence the Roaring Twenties?  
+President: What constitutional requirements must be met to become a U.S. president?  
+President: How has the role of the U.S. president evolved over time?  
+United: What are the primary purposes of the United Nations?  
+United: How has the United Nations addressed global conflicts since its founding?  
+Theodore: What were Theodore Roosevelt's contributions to environmental conservation?  
+Theodore: How did Theodore Roosevelt's foreign policy differ from his predecessors?  
+New: What were the main objectives of the New Deal?  
+New: How did the New Left movement change political discourse in the 1960s?  
+American: How did the American Revolution change the political landscape of the world?  
+American: What are the fundamental values outlined in the American Constitution?  
+War: What were the main causes leading to the start of World War I?  
+War: How did the Cold War influence global geopolitical dynamics?

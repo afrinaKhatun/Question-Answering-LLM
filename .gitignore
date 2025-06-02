@@ -2,3 +2,4 @@ testEnv/
 chunk_metadata.json
 chunk_metadata_with_clusters.json
 index.faiss
+py311env/
